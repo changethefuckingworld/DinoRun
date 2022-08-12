@@ -1,0 +1,11 @@
+Package: arm-dinorun
+Source: arm-dinorun
+Version: 0.1
+Architecture: arm64
+Maintainer: changethefuckingworld <changethenextworld@outlook.com>
+Installed-Size: 101
+Depends: love (>= 10.0)
+Section: unknow
+Priority: optional
+Homepage: https://www.github.com/changethefuckingworld
+Description: none
